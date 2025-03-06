@@ -15,7 +15,7 @@ Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à
 ### Livres sur les queerphobie & les luttes LGBT
 
 ### Livres sur l'antifascisme
-- [Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux](livres/CommentLaNonViolenceProtegeLetat.md) 🇫🇷
+- [Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux](livres/CommentLaNonViolenceProtegeLEtat.md) 🇫🇷
 
 ### Livres d'organisation politique
 - [Let This Radicalize You: Organizing and the Revolution of Reciprocal Care](livres/LetThisRadicalizeYou.md) 🇬🇧
