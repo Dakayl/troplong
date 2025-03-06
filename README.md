@@ -1,6 +1,6 @@
 # Trop Long ! Pas Lu !
 
-"Trop long; pas lu" est un index de livres intéressants de gauche, auquel chacun peut participer. L'idée étant que nous n'avons pas tous le temps de lire des livres politiques, scientiques, mais que nous avons tous intérêt à comprendre, critiquer et analyser les concepts militants, pour mieux défendre nos idées et structurer notre action.
+"Trop long, pas lu" est un index de livres intéressants de gauche, auquel chacun peut participer. L'idée étant que nous n'avons pas tous le temps de lire des livres politiques, scientiques, mais que nous avons tous intérêt à comprendre, critiquer et analyser les concepts militants, pour mieux défendre nos idées et structurer notre action.
 
 Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à l'appréciation de l'équipe éditoriale que nous allons constituer.
 
