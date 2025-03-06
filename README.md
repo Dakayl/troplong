@@ -2,11 +2,13 @@
 
 Trop long est un index de livres intéressants ge gauche, auquel chacun peut participer. L'idée étant que nous n'avons pas tous le temps de lire des livres politiques, scientiques, mais que nous avons intérêt à tous en comprendre, critiquer et analyser les concepts.
 
-Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à l'appréciation de l'équipe éditoriale.
+Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à l'appréciation de l'équipe éditoriale que nous allons constituer.
 
-ℹ️ Pour commencer une nouvelle fiche, merci de partir de [template/fiche-vide.md](template/fiche-vide.md)
+❓Pour en savoir plus sur le formattage markdown (md) : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
 
-ℹ️ Pour ajouter un livre ou modifier une fiche, merci de faire une Pull Request vers la branche main.
+🆕Pour commencer une nouvelle fiche, merci de partir de [template/fiche-vide.md](template/fiche-vide.md)
+
+➡️Pour ajouter un livre ou modifier une fiche, merci de faire une Pull Request vers la branche main.
 
 ℹ️ Quand on aura suffisament de livres on fera un joli index avec des liens, etc.
 
