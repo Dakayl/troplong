@@ -1,6 +1,6 @@
 [Retour](../README.md)
 
-# Let This Radicalize You: Organizing and the Revolution of Reciprocal Care 
+# Let This Radicalize You : Organizing and the Revolution of Reciprocal Care 
 
 ## Informations
 - Auteur(s) : 
