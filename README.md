@@ -9,18 +9,20 @@ Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à
 
 ## Liste des livres
 
-### Livres sur le féminisme et le sexisme
+### Sexisme & Féminisme
 
-### Livres sur le racisme et l'antiracisme
+### Racisme & antiracisme
 
-### Livres sur les queerphobie & les luttes LGBT
+## Queerphobie & luttes LGBT
 
-### Livres sur l'antifascisme
+### Antifascisme
 - [Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux](livres/CommentLaNonViolenceProtegeLEtat.md) 🇫🇷
 
-### Livres d'organisation politique
+### Organisation politique & militante
 - [Let This Radicalize You: Organizing and the Revolution of Reciprocal Care](livres/LetThisRadicalizeYou.md) 🇬🇧
 - [Starting Somewhere: Community Organizing for Socially Awkward People Who've Had Enough ](livres/StartingSomewhere.md) 🇬🇧
 
-### Livres scientifiques
+### Sociologie
 - [La droitisation française, mythe et réalités](livres/LaDroitisationFrancaise.md) 🇫🇷 
+
+### Psychologie
