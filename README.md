@@ -1,6 +1,6 @@
-# trop long
+# Trop Long !
 
-Trop long est un receuil de livres intéressants ge gauche, auquel chacun peut participer. L'idée étant que nous n'avons pas tous le temps de lire des livres politiques, scientiques, mais que nous avons intérêt à tous en comprendre, critiquer et analyser les concepts.
+Trop long est un index de livres intéressants ge gauche, auquel chacun peut participer. L'idée étant que nous n'avons pas tous le temps de lire des livres politiques, scientiques, mais que nous avons intérêt à tous en comprendre, critiquer et analyser les concepts.
 
 Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à l'appréciation de l'équipe éditoriale.
 
