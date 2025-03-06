@@ -5,7 +5,7 @@
 ## Informations
 - Auteur(s) :  Roderick Douglass 
 - Date d'édition : 2025
-- Langue : 
+- Langue : 🇬🇧
 
 ## Concepts clef
 -
