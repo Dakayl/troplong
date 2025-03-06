@@ -1,6 +1,6 @@
 [Retour](../README.md)
 
-#Starting Somewhere : Community Organizing for Socially Awkward People Who've Had Enough 
+# Starting Somewhere : Community Organizing for Socially Awkward People Who've Had Enough 
 
 ## Informations
 - Auteur(s) :  Roderick Douglass 
