@@ -8,7 +8,9 @@ Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à
 
 ℹ️ Pour ajouter un livre ou modifier une fiche, merci de faire une Pull Request vers la branche main.
 
-## Liste des livres
+ℹ️ Quand on aura suffisament de livres on fera un joli index avec des liens, etc.
+
+## Oppressions
 
 ### Sexisme & Féminisme
 
@@ -16,14 +18,26 @@ Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à
 
 ### Queerphobie & luttes LGBT
 
+### Validisme & Handicap
+
+## Général
+
 ### Antifascisme
 - [Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux](livres/CommentLaNonViolenceProtegeLEtat.md) 🇫🇷
 
-### Organisation politique & militante
+### Organisation militante
 - [Let This Radicalize You: Organizing and the Revolution of Reciprocal Care](livres/LetThisRadicalizeYou.md) 🇬🇧
 - [Starting Somewhere: Community Organizing for Socially Awkward People Who've Had Enough ](livres/StartingSomewhere.md) 🇬🇧
+
+## Sciences 
 
 ### Sociologie
 - [La droitisation française, mythe et réalités](livres/LaDroitisationFrancaise.md) 🇫🇷 
 
 ### Psychologie
+
+## Politique
+
+### Anarchisme
+
+### Communisme
