@@ -13,7 +13,7 @@ Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à
 
 ### Racisme & antiracisme
 
-## Queerphobie & luttes LGBT
+### Queerphobie & luttes LGBT
 
 ### Antifascisme
 - [Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux](livres/CommentLaNonViolenceProtegeLEtat.md) 🇫🇷
