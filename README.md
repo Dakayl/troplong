@@ -5,6 +5,7 @@ Trop long est un index de livres intéressants ge gauche, auquel chacun peut par
 Le fait qu'un livre soit de gauche ou non, soit pertinent ou non, est laissé à l'appréciation de l'équipe éditoriale.
 
 ℹ️ Pour commencer une nouvelle fiche, merci de partir de [template/fiche-vide.md](template/fiche-vide.md)
+
 ℹ️ Pour ajouter un livre ou modifier une fiche, merci de faire une Pull Request vers la branche main.
 
 ## Liste des livres
