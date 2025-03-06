@@ -17,7 +17,7 @@
 -
 -
 
-## Criques & remarques
+## Critiques & remarques
 -
 -
 -
